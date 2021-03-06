@@ -1,5 +1,5 @@
 # anagram
-simple note project to check anagram
+simple note project to make and check anagram
 
 # API
 - ### http://localhost:3000/anagrams?words=Top,123ff
